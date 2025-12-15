@@ -115,9 +115,9 @@ const AccountsPage = () => {
   }
 
   return (
-    <div className="p-6 bg-gray-50 min-h-screen">
+    <div className="p-4 bg-gray-50 min-h-screen">
       {/* Main Tabs */}
-      <div className="bg-white rounded-lg border border-gray-200 p-4 mb-8">
+      <div className="bg-white rounded-lg border border-gray-200 p-2 mb-4">
         <div className="flex items-center gap-2 overflow-x-auto">
           {TABS.map((tab) => (
             <button
