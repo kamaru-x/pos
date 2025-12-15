@@ -32,9 +32,9 @@ export const leads = [
 ];
 
 export const accounts = [
-  { id: '1', accountName: 'Personal Savings', bankName: 'Chase', balance: 5500.34 },
-  { id: '2', accountName: 'Family Checking', bankName: 'Wells Fargo', balance: 2100.00 },
-  { id: '3', accountName: 'Business Account', bankName: 'Bank of America', balance: 12000 },
+  { id: '1', accountName: 'Personal Savings', bankName: 'Chase', balance: 5500.34, accountNumber: 'XXXXXX'},
+  { id: '2', accountName: 'Family Checking', bankName: 'Wells Fargo', balance: 2100.00, accountNumber: 'XXXXXX' },
+  { id: '3', accountName: 'Business Account', bankName: 'Bank of America', balance: 12000, accountNumber: 'XXXXXX' },
 ];
 
 export const categories = [
